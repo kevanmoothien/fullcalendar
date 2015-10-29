@@ -8719,7 +8719,7 @@ Calendar.defaults = {
 	// event ajax
 	lazyFetching: true,
 	startParam: 'start',
-	endParam: 'end',
+	endParam: 'endDate',
 	timezoneParam: 'timezone',
 
 	timezone: false,
